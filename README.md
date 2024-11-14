@@ -1,6 +1,6 @@
 # Mac_Sprint6_APP - Proyecto final del Sprint 5
 
-Link app https://mac-sprint6-app.onrender.com
+# Link app https://mac-sprint6-app.onrender.com
 
 El desarrollo de esta aplicacion nos va a permitir afianzar mas los conocimientos adquiridos en el Sprint 6 para la creación de entornos virtuales de Python, el desarrollo de una aplicación que corra en la nube con acceso al público.
 
